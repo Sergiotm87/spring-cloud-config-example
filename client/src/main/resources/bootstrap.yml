@@ -5,4 +5,4 @@ spring:
     config:
       env: default # optional
       label: master # optional
-      uri: http://localhost:8888 # optional
+      uri: http://spring-cloud-config-example-git-cloud-config-test.apps-crc.testing/ # optional
